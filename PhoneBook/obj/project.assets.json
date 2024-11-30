@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP-Victus\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
-      "projectName": "PhoneBook",
-      "projectPath": "C:\\Users\\HP-Victus\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
+      "projectUniqueName": "C:\\Users\\HP-Victus\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBookCrud.csproj",
+      "projectName": "PhoneBookCrud",
+      "projectPath": "C:\\Users\\HP-Victus\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBookCrud.csproj",
       "packagesPath": "C:\\Users\\HP-Victus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP-Victus\\source\\repos\\PhoneBook\\PhoneBook\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-﻿namespace PhoneBook
+﻿namespace PhoneBookCrud
 {
     internal class Program
     {
